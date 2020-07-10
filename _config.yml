@@ -49,7 +49,7 @@ minima:
 header_pages:
  - about.md
  - Category.md
- - Poltfolio.md
+ - Portfolio.md
 
 # Build settings
 theme: minima
