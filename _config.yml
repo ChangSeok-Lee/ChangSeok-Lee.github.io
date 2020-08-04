@@ -1,9 +1,9 @@
-title: CS의 외장하드
+title: CS Blog
 author:
   name: ChangSeok
   email: dlckdtjr1456@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
- 개발.. 공부.. 일상..
+ 개발 - 공부 - 일상
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
