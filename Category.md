@@ -14,4 +14,4 @@ test용! test의 값은 {{test}}
 
 {% for item in all_categories %}
   {{ item }}
-{% endfor %}
+{% end for %}
