@@ -10,5 +10,5 @@ test용! test의 값은 {{test}}
 
 카테고리   
 {%- for item in site.categories -%}
-  -{{ item | first }}
+    -{{ item | first }}
 {% endfor %}
