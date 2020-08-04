@@ -10,8 +10,6 @@ test용! test의 값은 {{test}}
 
 카테고리!  
 
-{% assign all_categories = site.pages | map: "category" %}
-
-{% for item in all_categories %}
-  {{ item }}
+{% for item in site.categories %}
+  {{ item | first }}
 {% endfor %}
